@@ -1,0 +1,27 @@
+{
+  "name": "precedence_parser",
+  "version": "1.0.0",
+  "description": "Converts a simple test grammar with precendence, to RPN stack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/raphaeltraviss/precedence_parser.git"
+  },
+  "keywords": [
+    "Node",
+    "chevrotain",
+    "parser"
+  ],
+  "author": "Raphael Spencer",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/raphaeltraviss/precedence_parser/issues"
+  },
+  "homepage": "https://github.com/raphaeltraviss/precedence_parser#readme",
+  "devDependencies": {
+    "chevrotain": "^4.3.2"
+  }
+}
